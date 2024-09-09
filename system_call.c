@@ -12,8 +12,8 @@
 #include <stdio.h>
 
 /**
- * 
- *
+ * affiche sur le terminal "processus 1" pour le processus de 1,3 et 5
+ * apres le premier et le troisième il met le systeme sur pause
  *
  *
  * @return     0 
